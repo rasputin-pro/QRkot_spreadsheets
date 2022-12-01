@@ -12,7 +12,7 @@ from app.models import Donation
 from app.schemas.charity_project import (CharityProjectCreate,
                                          CharityProjectDB,
                                          CharityProjectUpdate)
-from app.servises.investing import investation
+from app.services.investing import investation
 
 
 router = APIRouter()
