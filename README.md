@@ -27,6 +27,7 @@ SECRET=QU:=r6S7+{'et=rf
 FIRST_SUPERUSER_EMAIL=superuser@example.com
 FIRST_SUPERUSER_PASSWORD=5>~H*d&:Yz5jXrna
 # Доступ к сервисному аккаунту Google Cloud Platform
+EMAIL=
 TYPE=
 PROJECT_ID=
 PRIVATE_KEY_ID=
