@@ -2,8 +2,8 @@ from datetime import datetime
 
 from aiogoogle import Aiogoogle
 
-from app.core.config import settings
 from app.core import constants as const
+from app.core.config import settings
 
 
 async def spreadsheets_create(wrapper_services: Aiogoogle) -> str:
